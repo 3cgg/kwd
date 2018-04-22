@@ -1,4 +1,4 @@
-package me.libme.kwd.fn;
+package me.libme.kwd;
 
 import java.util.stream.Stream;
 

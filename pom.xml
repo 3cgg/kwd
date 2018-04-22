@@ -25,14 +25,6 @@
             <version>1.0.1</version>
         </dependency>
 
-        <dependency>
-            <groupId>libme.modules</groupId>
-            <artifactId>es</artifactId>
-            <version>1.0.1</version>
-        </dependency>
-
-
-
 
         <!--log4j begin-->
         <dependency>
